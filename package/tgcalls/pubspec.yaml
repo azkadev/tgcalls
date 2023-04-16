@@ -1,0 +1,16 @@
+name: tgcalls
+description: A library tgcalls for interact with call telegram.
+version: 0.0.0
+repository: https://github.com/azkadev/azkadev.git
+issue_tracker: https://github.com/azkadev/azkadev.git
+homepage: https://youtube.com/@azkadev
+
+environment:
+  sdk: '>=2.19.4 <3.0.0'
+
+dependencies:  
+  path: ^1.8.3
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0
